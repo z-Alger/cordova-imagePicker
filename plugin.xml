@@ -85,18 +85,18 @@
 		
         <source-file src="src/android/Library/res/anim/image_pop_in.xml" target-dir="res/anim"/>
 		<source-file src="src/android/Library/res/drawable/grid_background.xml" target-dir="res/drawable"/>
-		<source-file src="src/android/Library/res/drawable-hdpi/image_bg.9.png" target-dir="res/drawable-hdpi"/>
-		<source-file src="src/android/Library/res/drawable-hdpi/loading_icon.png" target-dir="res/drawable-hdpi"/>
-		<source-file src="src/android/Library/res/drawable-mdpi/ic_action_discard_dark.png" target-dir="res/drawable-mdpi"/>
-		<source-file src="src/android/Library/res/drawable-mdpi/ic_action_discard_light.png" target-dir="res/drawable-mdpi"/>
-		<source-file src="src/android/Library/res/drawable-mdpi/ic_action_done_dark.png" target-dir="res/drawable-mdpi"/>
-		<source-file src="src/android/Library/res/drawable-mdpi/ic_action_done_light.png" target-dir="res/drawable-mdpi"/>
-		<source-file src="src/android/Library/res/drawable-mdpi/ic_launcher.png" target-dir="res/drawable-mdpi"/>
-		<source-file src="src/android/Library/res/drawable-xhdpi/ic_action_discard_dark.png" target-dir="res/drawable-xhdpi"/>
-		<source-file src="src/android/Library/res/drawable-xhdpi/ic_action_discard_light.png" target-dir="res/drawable-xhdpi"/>
-		<source-file src="src/android/Library/res/drawable-xhdpi/ic_action_done_dark.png" target-dir="res/drawable-xhdpi"/>
-		<source-file src="src/android/Library/res/drawable-xhdpi/ic_action_done_light.png" target-dir="res/drawable-xhdpi"/>
-		<source-file src="src/android/Library/res/drawable-xhdpi/ic_launcher.png" target-dir="res/drawable-xhdpi"/>
+		<resource-file src="src/android/Library/res/drawable-hdpi/image_bg.9.png" target-dir="res/drawable-hdpi"/>
+		<resource-file src="src/android/Library/res/drawable-hdpi/loading_icon.png" target-dir="res/drawable-hdpi"/>
+		<resource-file src="src/android/Library/res/drawable-mdpi/ic_action_discard_dark.png" target-dir="res/drawable-mdpi"/>
+		<resource-file src="src/android/Library/res/drawable-mdpi/ic_action_discard_light.png" target-dir="res/drawable-mdpi"/>
+		<resource-file src="src/android/Library/res/drawable-mdpi/ic_action_done_dark.png" target-dir="res/drawable-mdpi"/>
+		<resource-file src="src/android/Library/res/drawable-mdpi/ic_action_done_light.png" target-dir="res/drawable-mdpi"/>
+		<resource-file src="src/android/Library/res/drawable-mdpi/ic_launcher.png" target-dir="res/drawable-mdpi"/>
+		<resource-file src="src/android/Library/res/drawable-xhdpi/ic_action_discard_dark.png" target-dir="res/drawable-xhdpi"/>
+		<resource-file src="src/android/Library/res/drawable-xhdpi/ic_action_discard_light.png" target-dir="res/drawable-xhdpi"/>
+		<resource-file src="src/android/Library/res/drawable-xhdpi/ic_action_done_dark.png" target-dir="res/drawable-xhdpi"/>
+		<resource-file src="src/android/Library/res/drawable-xhdpi/ic_action_done_light.png" target-dir="res/drawable-xhdpi"/>
+		<resource-file src="src/android/Library/res/drawable-xhdpi/ic_launcher.png" target-dir="res/drawable-xhdpi"/>
 		<source-file src="src/android/Library/res/layout/actionbar_custom_view_done_discard.xml" target-dir="res/layout"/>
 		<source-file src="src/android/Library/res/layout/actionbar_discard_button.xml" target-dir="res/layout"/>
 		<source-file src="src/android/Library/res/layout/actionbar_done_button.xml" target-dir="res/layout"/>
